@@ -1,0 +1,11 @@
+input:1
+push:1
+input:1
+push:1
+input:1
+push:1
+input:1
+push:1
+input:1
+push:10
+input:2
